@@ -21,15 +21,15 @@
 ## Методы класса
  Методы /  Описание /  Параметры 
 
- remove_missing. Удаляет колонки с пропусками выше threshold и заполняет остальные. threshold (0-1), strategy (mean/median/mode) 
+> remove_missing. Удаляет колонки с пропусками выше threshold и заполняет остальные. threshold (0-1), strategy (mean/median/mode) 
 
- normalize_numeric. Приводит числа к единому масштабу. method ('minmax' или 'std')   
+> normalize_numeric. Приводит числа к единому масштабу. method ('minmax' или 'std')   
 
- encode_categorical. Превращает текст в One-Hot векторы.  - 
+> encode_categorical. Превращает текст в One-Hot векторы.  - 
 
- fit_transform. Запускает полный цикл обработки. Те же, что выше 
+> fit_transform. Запускает полный цикл обработки. Те же, что выше 
 
- transform. Применяет сохраненные правила к новому DF. df (pandas DataFrame) 
+> transform. Применяет сохраненные правила к новому DF. df (pandas DataFrame) 
 
 ## Быстрый старт
 Клонируйте репозиторий:
