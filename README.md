@@ -13,10 +13,12 @@
 - Pandas, NumPy, SciKit-Learn;
 
 ## Структура проекта
+```
 1.  data_preprocessor.py   # Исходный код класса DataPreprocessor
 2.  notebook.ipynb         # Демонстрация работы на датасете Titanic
 3.  requirements.txt       # Зависимости (pandas, numpy, scikit-learn)
 4.  README.md              # Документация проекта
+```
 
 ## Методы класса
  Методы /  Описание /  Параметры 
