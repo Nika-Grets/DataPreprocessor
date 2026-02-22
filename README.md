@@ -82,7 +82,7 @@ pip install -r requirements.txt
 >    
 
 >  Standardization:
-  <img width="800" height="600" alt="2026-02-10_20-22-10" src="img/img_2.png" />
+  <img width="800" height="600" alt="2026-02-10_20-22-10" src="img/2026-02-22_09-21-59.png" />
 
 ### Обработка исключений
 Класс валидирует входные данные и выбрасывает понятные ошибки:
